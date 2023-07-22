@@ -32,28 +32,6 @@
       "value": 7.5,
       "genre": "Plataformas",
       "company": "Sega"
-    },
-    {
-      "name": "Metal Gear Solid V: Ground Zeroes",
-      "platform": "PS3",
-      "cover": "https://m.media-amazon.com/images/I/51Px32IQDnL._AC_UF1000,1000_QL80_.jpg",
-      "year": "2014",
-      "launchYear": "2014",
-      "value": 8.5,
-      "genre": "Acción",
-      "company": "Konami",
-      "id": 4
-    },
-    {
-      "name": "Bioshock: Infinite",
-      "platform": "PS3",
-      "cover": "https://cdn.mobygames.com/covers/6791338-bioshock-infinite-playstation-3-front-cover.jpg",
-      "year": "2014",
-      "launchYear": "2013",
-      "value": 10,
-      "genre": "Acción",
-      "company": "2K",
-      "id": 5
     }
   ]
 }
